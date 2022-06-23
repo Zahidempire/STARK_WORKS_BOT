@@ -32,7 +32,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ━━━━━━━━━━━━᚜ <a href=https://t.me/Its_Zahid_Officialbot><b>ZAHID</b></a> ᚛━━━━━━━━━━━━"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>  
 
-- Filter is the feature were users can set automated replies for a particular keyword and Zsearcher will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and STARK WORKS BOT will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. STARK WORKS BOT should have admin privillage.
@@ -128,4 +128,4 @@ This module only works for my OᗯᑎEᖇ⚡
 <b>/carbon ›› 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝚃𝙴𝚇𝚃 𝙼𝙴𝚂𝚂𝙰𝙶𝙴</b>
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙾𝙽 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-<b>INSTAGRAM ››</b> <a href=https://instagram.com/md_zahid_raza_?igshid=YmMyMTA2M2Y=>ᴛᴇᴄʜɴɪᴄᴀʟ-ᴄʏɴɪᴛᴇ</a></b>"""
+<b>INSTAGRAM ››</b> <a href=https://instagram.com/md_zahid_raza_?igshid=YmMyMTA2M2Y=>Md_Zahid_Raza_</a></b>"""
